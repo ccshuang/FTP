@@ -1,0 +1,13 @@
+[tcc]
+password = 123
+quota = 100
+
+[cc]
+password = 123
+quota = 100
+
+
+[admin]
+password = 123
+quota = 100
+
